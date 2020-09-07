@@ -1,0 +1,3 @@
+include ':app:levelPorgressBar'
+include ':app'
+rootProject.name = "LevelProgressBar"
